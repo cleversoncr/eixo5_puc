@@ -3,9 +3,20 @@ body {
 }
 
 #logo {
-  max-width: 15%;
+  max-width: 7%;
 }
 
 #formulario-pergunta {
   margin-top: 5vh;
+}
+
+.navbarDistro {
+  display: flex;
+  align-items: baseline;
+}
+h1 {
+  color: white;
+  padding-left: 5em;
+  text-align: center;
+  font-size: 2em;
 }
