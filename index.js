@@ -15,6 +15,6 @@ app.get('/', (req, res) => {
 });
 
 //Configuração a porta localhost
-app.listen(8080, () => {
+app.listen(3333, () => {
   console.log('App rodando!');
 });
